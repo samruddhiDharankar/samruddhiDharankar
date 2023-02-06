@@ -1,51 +1,40 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
-
-<p align="center">
-  <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
-</p>  
-<h2 align="center">Hi there 👋, I'm Sammy!</h2>
-
-
-<a href="https://www.linkedin.com/in/samruddhi-dharankar/">LinkedIn: <img src="https://icons8.com/icon/62925/linkedin-circled" /></a> <a href="https://leetcode.com/user4547K/">Leetcode:/></a>
-
-<h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=shinokada&column=9&theme=gruvbox&no-frame=true"/>
-
-![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinokada&show_icons=true&theme=tokyonight)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinokada&theme=neon-palenight&hide_border=true)
-
-## Medium Articles
-
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0" alt="Recent Article 1">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
-
-## Repos
-
-[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=fastapi-web-starter&show_owner=true)](https://github.com/shinokada/fastapi-web-starter)
-
-[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
-
-[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
+# Hi, I'm Ansh. 👋🏾 👩🏾‍💻
 
 
 
-**Languages and Tools:**  
+## 👨🏻‍💻 &nbsp;About Me
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-![](https://komarev.com/ghpvc/?username=shinokada)
+🎓 &nbsp;I'm currently studying Computer Science from Pune University.\
+💡 &nbsp;Some technologies I enjoy working with include JavaScript, NodeJS .\
+🌱 &nbsp;I'm on track for learning more about Web Development,Data Structure and Algorithms, Blockchain.\
+✉️ &nbsp;You can shoot me an email at anshmishra9415@gmail.com! I'll try to respond as soon as I can.
+
+
+
+## Find me around the web. 🌎
+
+- Learning on <a href="https://www.hackerrank.com/anshmishra9415">HackerRank</a> 🤓
+- Struggling on <a href="https://leetcode.com/anshmishra9415/">LeetCode</a> 😍
+- Practising on <a href="https://auth.geeksforgeeks.org/user/anshmishra9415/practice/">GeeksForGeeks</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/ansh-mishra-">LinkedIn</a> 😇
+
+ <br>
+ <br>
+
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshmishra010&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshmishra010&layout=compact)](https://github.com/anshmishra010/github-readme-stats)
+
+<br>
+
+<summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anshmishra010&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
+<br>
+
+<summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=anshmishra010&theme=xcode" alt="Contribution Graph" align="center" />
