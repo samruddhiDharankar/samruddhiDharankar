@@ -23,7 +23,7 @@
  <br>
  <br>
 
-![Sammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshmishra010&show_icons=true&theme=radical)
+![Sammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=samruddhiDharankar&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhiDharankar&layout=compact)](https://github.com/samruddhiDharankar/github-readme-stats)
 
