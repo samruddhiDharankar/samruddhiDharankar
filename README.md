@@ -31,10 +31,10 @@
 
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=anshmishra010&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  <img src="https://github-profile-trophy.vercel.app/?username=samruddhiDharankar&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 <br>
 
 <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=anshmishra010&theme=xcode" alt="Contribution Graph" align="center" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=samruddhiDharankar&theme=xcode" alt="Contribution Graph" align="center" />
