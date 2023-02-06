@@ -6,7 +6,7 @@
 <h2 align="center">Hi there 👋, I'm Sammy!</h2>
 
 
-<a href="https://www.linkedin.com/in/samruddhi-dharankar/" target="blank">LinkedIn: <img align="center" src="https://icons8.com/icon/62925/linkedin-circled" alt="Medium" height="30" width="40" /></a> <a href="https://leetcode.com/user4547K/" target="blank">Leetcode: <img align="center" src="https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job" alt="Medium" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samruddhi-dharankar/" target="blank">LinkedIn: height="30" width="40" /></a> <a href="https://leetcode.com/user4547K/" target="blank">Leetcode: <img align="center" src="https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job" alt="Medium" height="30" width="40" /></a>
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=shinokada&column=9&theme=gruvbox&no-frame=true"/>
