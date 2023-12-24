@@ -16,8 +16,7 @@
 ## Find me around the web. 🌎
 
 - Learning on <a href="">HackerRank</a> 🤓
-- Struggling on <a href="https://leetcode.com/user4547K/">LeetCode</a> 😍
-- Practising on <a href="">GeeksForGeeks</a> 🙃
+- Practising on <a href="https://leetcode.com/user4547K/">LeetCode</a> 😍
 - Sharing updates on <a href="https://www.linkedin.com/in/samruddhi-dharankar/">LinkedIn</a> 😇
 
  <br>
