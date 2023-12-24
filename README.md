@@ -6,10 +6,10 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I'm Master of Computer Science student at University of California, Irvine.\
-💡 &nbsp;Some technologies I enjoy working with include C++, Python, Django, Flask .\
-🌱 &nbsp;I'm on track for learning more about Web Development, Data Structure and Algorithms, and Cloud Computing\
-✉️ &nbsp;You can shoot me an email at sdharank@ics.uci.edu! 
+🎓 &nbsp; I have a Master of Computer Science degree from the University of California, Irvine.\
+💡 &nbsp; Some technologies I enjoy working with include C++, Python, Java, Javascript, NextJs .\
+🌱 &nbsp; I'm on track to learn more about Web Development, Data Structure and Algorithms, and Cloud Computing\
+✉️ &nbsp; You can shoot me an email at sdharank@ics.uci.edu! 
 
 
 
